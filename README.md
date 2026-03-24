@@ -1,8 +1,8 @@
-Vancouver Municipal Bylaw RAG Assistant
+** Vancouver Municipal Bylaw RAG Assistant
 
 A Retrieval-Augmented Generation (RAG) pipeline designed for deterministic, grounded legal query processing.
 
-🎯 Research Objective
+**🎯 Research Objective
 To evaluate the efficacy of Small Language Models (SLMs) in embedding high-density legal text and mitigating "hallucination" in LLMs through semantic context injection. This project focuses on the City of Vancouver Street and Traffic By-law (No. 2849) .
 
 🛠️ Technical Architecture
