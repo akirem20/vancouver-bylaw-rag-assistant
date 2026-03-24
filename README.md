@@ -25,15 +25,14 @@ Groundedness Verification: The system acknowledges context limitations to preven
 1. Install Dependencies
 Run the following command to install all necessary libraries:
 
-Bash
 pip install google-genai chromadb sentence-transformers pypdf python-dotenv
-2. Environment Configuration
+
+3. Environment Configuration
 Create a .envfile in the root directory and add your API key:
 
-Plaintext
 GEMINI_API_KEY=your_actual_key_here
+
 3. Run the Assistant
 Ensure vancouver_law.pdfis in the root directory, then execute:
 
-Bash
 python main.py
